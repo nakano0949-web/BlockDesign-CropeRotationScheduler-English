@@ -17,7 +17,7 @@ A professional crop rotation planning tool that uses finite geometry algorithms�
 
 ```text
 .
-├── index.html     # Japanese Version
-├── en.html        # English Version
+    
+├── index.html     # English Version
 ├── script.js      # Core Logic & Algorithms (Shared)
 └── style.css      # Styling & Layout (Shared)
